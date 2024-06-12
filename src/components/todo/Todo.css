@@ -1,0 +1,59 @@
+.container {
+  background: white;
+  max-width: 450px;
+  padding: 20px;
+  border-radius: 7px;
+}
+
+.appHeading {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+
+hr {
+  margin-block: 10px;
+}
+
+.input {
+  margin-bottom: 20px;
+}
+
+.inputBox {
+  background: transparent;
+  border: none;
+  outline: none;
+  background: wheat;
+  font-size: 20px;
+  padding: 10px;
+  width: 75%;
+}
+
+.addTask {
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 10px;
+  background: orange;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.edited {
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 10px;
+  background: rgb(200, 112, 241);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.tasks {
+  padding: 10px;
+  padding-top: 0;
+}

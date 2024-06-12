@@ -1,0 +1,42 @@
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  border-bottom: 1px solid orangered;
+  gap: 10px;
+}
+
+.taskName {
+  width: 80%;
+  font-size: 18px;
+}
+
+.btns {
+  display: flex;
+  gap: 7px;
+}
+
+.editTask,
+.deleteTask {
+  padding: 5px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+
+.editTask {
+  color: rgb(216, 11, 206);
+}
+
+.deleteTask {
+  color: red;
+}
