@@ -1,1 +1,6 @@
-src\assets\Screenshot 2024-06-12 080514.png
+![Screenshot 2024-06-12 080514](https://github.com/DJwhoCodes-One/todo_app/assets/159902134/060ad529-88e2-433a-af5a-fcfc0da96149)
+![Screenshot 2024-06-12 080558](https://github.com/DJwhoCodes-One/todo_app/assets/159902134/0a79b8cd-3390-4cee-b823-40b250b85245)
+![Screenshot 2024-06-12 080611](https://github.com/DJwhoCodes-One/todo_app/assets/159902134/f1caafc2-d898-40fe-8f35-09f66466dfae)
+![Screenshot 2024-06-12 080622](https://github.com/DJwhoCodes-One/todo_app/assets/159902134/e7473c0c-59ff-40b4-b782-c4cf4fce738f)
+![Screenshot 2024-06-12 080631](https://github.com/DJwhoCodes-One/todo_app/assets/159902134/8fa26690-be94-47dd-9836-c208c2f70e38)
+![Screenshot 2024-06-12 080654](https://github.com/DJwhoCodes-One/todo_app/assets/159902134/70bd78e3-0759-499e-815e-b0627db6cbb9)
