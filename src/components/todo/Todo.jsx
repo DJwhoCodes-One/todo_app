@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import './Todo.css'
 import { useRef } from 'react';
-import { useEffect } from 'react';
 import TodoItem from '../todoItem/TodoItem.jsx';
 
 
